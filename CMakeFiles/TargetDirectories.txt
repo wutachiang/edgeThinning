@@ -1,0 +1,7 @@
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/install.dir
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/list_install_components.dir
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/rebuild_cache.dir
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/pbcvt.dir
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/install/strip.dir
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/install/local.dir
+/home/god/CLionProjects/pyboostcvconverter/CMakeFiles/edit_cache.dir
